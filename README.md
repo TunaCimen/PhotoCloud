@@ -1,7 +1,19 @@
 # PhotoCloud
 Basic Instagram Clone made with Java.
 
+Coding features. 
+--
+
+-Custom RecycleView
+
+-Event System
+
+-WindowManager
+
+
+
 TO OPEN THE PROJECT
+--
 
 1.Clone the project to your local device.
 
