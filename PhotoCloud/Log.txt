@@ -1,0 +1,109 @@
+[2023-05-24T17:36:29.823640]Post with ID 0 was liked by Model.nodes.User@26bafc59
+[2023-05-24T17:36:33.153358]Post with ID 0 was removed
+[2023-05-25T01:31:01.530053]User: bob has login
+[2023-05-25T01:31:52.443523]Post added by user w/nickname bob
+[2023-05-25T01:32:00.485781]Post with ID 15 was removed
+[2023-05-25T01:34:18.453715]User: bob has login
+[2023-05-25T01:44:18.840306]User: bob has login
+[2023-05-25T01:46:21.610858]User: bob has login
+[2023-05-25T01:46:32.033639]User: bob has login
+[2023-05-25T01:48:49.047473]User: bob has login
+[2023-05-25T01:49:53.674401]User: bob has login
+[2023-05-25T03:05:01.794786]User with nickname: kbbcreated.
+[2023-05-25T03:05:10.340490]User: bob has login
+[2023-05-25T03:05:39.911824]Post with ID 2 was liked by jojo
+[2023-05-25T03:05:42.814437]Post with ID 2 was liked by jojo
+[2023-05-25T03:05:43.816512]Post with ID 2 was liked by jojo
+[2023-05-25T03:05:44.216134]Post with ID 2 was liked by jojo
+[2023-05-25T03:05:44.457232]Post with ID 2 was liked by jojo
+[2023-05-25T03:05:44.642020]Post with ID 2 was liked by jojo
+[2023-05-25T03:05:44.797450]Post with ID 2 was liked by jojo
+[2023-05-25T03:06:55.400379]field changed
+[2023-05-25T03:06:55.411589]Comment added to the post with ID: 1 by user w/nickname bob
+[2023-05-25T03:07:44.802656]User: bob has login
+[2023-05-25T03:09:34.467111]Username or password is wrong !! 
+[2023-05-25T03:09:36.780600]User: proUser has login
+[2023-05-25T03:10:39.329887]Post added by user w/nickname proUser
+[2023-05-25T03:11:11.884580]field changed
+[2023-05-25T03:11:11.905903]Comment added to the post with ID: 12 by user w/nickname proUser
+[2023-05-25T03:11:23.815111]field changed
+[2023-05-25T03:11:23.815501]Comment added to the post with ID: 12 by user w/nickname proUser
+[2023-05-25T03:13:47.844281]User: bob has login
+[2023-05-25T03:13:52.557559]field changed
+[2023-05-25T03:13:52.580887]Comment added to the post with ID: 1 by user w/nickname bob
+[2023-05-25T03:17:52.084539]User: bob has login
+[2023-05-25T03:17:55.859196]Comment added to the post with ID: 0 by user w/nickname bob
+[2023-05-25T03:20:46.946779]User: bob has login
+[2023-05-25T03:20:53.884281]field changed
+[2023-05-25T03:20:53.891601]Comment added to the post with ID: 0 by user w/nickname bob
+[2023-05-25T03:24:27.266888]User: bob has login
+[2023-05-25T03:24:32.149122]field changed
+[2023-05-25T03:24:32.155208]Comment added to the post with ID: 0 by user w/nickname bob
+[2023-05-25T03:26:52.311933]User: bob has login
+[2023-05-25T03:26:57.670822]field changed
+[2023-05-25T03:26:57.679449]Comment added to the post with ID: 0 by user w/nickname bob
+[2023-05-25T10:08:34.813930]User with nickname: padmecreated.
+[2023-05-25T10:08:58.054855]User with nickname: darth_jarjarcreated.
+[2023-05-25T10:09:19.774777]Nickname already exists, pick another one
+[2023-05-25T10:10:52.063946]User with nickname: hobbytestcreated.
+[2023-05-25T10:25:51.704916]Username or password is wrong !! 
+[2023-05-25T10:25:56.266454]User: jojo has login
+[2023-05-25T10:33:04.527606]Username or password is wrong !! 
+[2023-05-25T10:33:12.486530]User: jojo has login
+[2023-05-25T10:39:28.914445]User: naturelover has login
+[2023-05-25T10:40:07.124268]Post added by user w/nickname naturelover
+[2023-05-25T10:41:27.234200]User: naturelover has login
+[2023-05-25T10:42:48.868543]User: bob has login
+[2023-05-25T10:44:45.845967]User: bob has login
+[2023-05-25T10:45:40.707649]User: bob has login
+[2023-05-25T10:45:56.977545]User: jojo has login
+[2023-05-25T10:47:10.827604]User: jojo has login
+[2023-05-25T11:18:07.575619]User: bob has login
+[2023-05-25T11:18:11.690730]Post with ID 0 was removed
+[2023-05-25T11:18:42.204544]Post added by user w/nickname bob
+[2023-05-25T12:39:51.794660]User: bob has login
+[2023-05-25T12:41:14.753600]User: bob has login
+[2023-05-25T12:41:33.605101]Username or password is wrong !! 
+[2023-05-25T12:41:42.089457]Username or password is wrong !! 
+[2023-05-25T12:41:54.805619]User: proUser has login
+[2023-05-25T17:37:37.052412]User with nickname: newusercreated.
+[2023-05-25T17:37:44.342128]Username or password is wrong !! 
+[2023-05-25T17:37:48.502454]Username or password is wrong !! 
+[2023-05-25T17:37:52.179029]User: freeUser has login
+[2023-05-25T17:38:43.288750]field changed
+[2023-05-25T17:38:46.594527]field changed
+[2023-05-25T17:40:14.785852]Post added by user w/nickname freeUser
+[2023-05-25T17:40:37.282628]field changed
+[2023-05-25T17:40:37.296949]Comment added to the post with ID: 19 by user w/nickname freeUser
+[2023-05-25T17:40:44.452063]Post with ID 19 was liked by freeUser
+[2023-05-25T17:40:47.376004]Post with ID 19 was liked by freeUser
+[2023-05-25T17:40:47.860711]Post with ID 19 was liked by freeUser
+[2023-05-25T17:40:48.598913]Post with ID 19 was liked by freeUser
+[2023-05-25T17:40:49.045090]Post with ID 19 was liked by freeUser
+[2023-05-25T17:40:49.978531]Post with ID 19 was liked by freeUser
+[2023-05-25T17:40:50.234822]Post with ID 19 was liked by freeUser
+[2023-05-25T17:41:08.490598]User: freeUser has login
+[2023-05-25T17:41:57.441890]Username or password is wrong !! 
+[2023-05-25T17:42:00.151438]User: proUser has login
+[2023-05-25T17:47:43.842239]User with nickname: created.
+[2023-05-25T17:47:55.555022]Nickname already exists, pick another one
+[2023-05-25T17:48:38.299258]User: admin has login
+[2023-05-25T17:49:00.974771]Post with ID 8 was removed
+[2023-05-25T17:49:26.493131]User with nickname: admin1created.
+[2023-05-25T17:49:30.602984]Username or password is wrong !! 
+[2023-05-25T17:49:32.685711]Username or password is wrong !! 
+[2023-05-25T17:49:34.837532]User: admin1 has login
+[2023-05-25T17:50:04.333006]Post with ID 19 was liked by freeUser
+[2023-08-20T21:55:42.223776]Username or password is wrong !! 
+[2023-08-20T21:56:00.471745]Username or password is wrong !! 
+[2023-08-20T21:56:13.463496]User with nickname: gabycreated.
+[2023-08-20T21:56:16.833078]User: gaby has login
+[2023-08-20T21:56:52.871018]field changed
+[2023-08-20T21:56:52.891454]Comment added to the post with ID: 2 by user w/nickname gaby
+[2023-08-20T21:56:59.548345]Post with ID 3 was liked by bob
+[2023-08-20T21:57:00.234077]Post with ID 4 was liked by bob
+[2023-08-20T21:57:00.918487]Post with ID 2 was liked by jojo
+[2023-08-20T21:57:01.744083]Post with ID 1 was liked by bob
+[2023-08-20T21:57:25.334342]Post with ID 11 was liked by bob
+[2023-08-20T21:57:33.957811]field changed
+[2023-08-20T21:57:33.958926]Comment added to the post with ID: 11 by user w/nickname gaby
